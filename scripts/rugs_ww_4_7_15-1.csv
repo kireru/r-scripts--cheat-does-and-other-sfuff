@@ -1,0 +1,160 @@
+RUG,NumMem
+China (Chengdu): Chengdu R User's Group,27
+China (Hong Kong): Hong Kong R User Group (HKRUG),NA
+China (Macao): R-Research,NA
+India (Bangalore): Bangalore R Users - BRU,NA
+India (Chennai): R Users Group Chennai,282
+India (Mumbai): mumbai-r-user-group,271
+India (New Delhi): New Delhi UseR Group,520
+India (Pune): Pune R User Group,312
+Japan (Chiba): Kashiwa.R,NA
+Japan (Osaka): Osaka.R,NA
+Japan (Tokyo): Tokyo.R,NA
+Japan (Tsukuba): Tsukuba.R,NA
+Philippines (Manila): R Users Group - Philippines,149
+Singapore: R User Group - Singapore (RUGS),829
+Sri Lanka (University of Peradeniya): R User Group - Sri Lanka,NA
+Taiwan (Kaohsiung): Kaohsiung R Users,NA
+"Taiwan (Taipei): Chinese Academy of R Software (CARS),",NA
+Taiwan (Taipei): Taiwan UseR Group,1887
+Thailand (Chang Mai): Chang Mai R User Group,189
+Edmonton: Edmonton R User Group,2
+Montréal: Montreal R User Group,681
+Ottawa: Ottawa Gatineau R Users Group,NA
+Québec: Plein-R (en Français),48
+Toronto: Greater Toronto Area (GTA) R User's Group,456
+Toronto: R Matlab Users,437
+Vancouver: Vancouver R Users Group,643
+Austria (Vienna): Vienna<-R,138
+Belgium (Brussels): RBelgium,290
+Demmark (Aarhus): Rhus,70
+Denmark (Copenhagen): CopenhagenR - useR Group,306
+Finland (Helsinki) :Finnish Society for Bioinformatics,NA
+France (Lyon) : RLyon,67
+France (Jouy-en-Josas): R4Ciam,NA
+France (Montpellier): Groupe des utilisateurs du logiciel R,2844
+France (Paris): Semin-R,NA
+France (Paris): R Addicts Paris,619
+Germany (Berlin): Berlin R Users Group,100
+Germany (Dresden): R User Group Dresden,NA
+Germany (Hamburg): Hamburg R User Group,88
+Germany (Kassel): Kasseler useR Group,69
+Germany (Köln): Köln R User Group,229
+Germany (Leipzig): Leipzig R Statistical Computing,92
+Germany (Mannheim/Ludwigshafen/Heidelberg area): R User Group Rhein-Neckar,103
+Germany (Marburg): Marburg R Local User Group,NA
+Germany (Munich): Munich useR Group,218
+Germany (Nürnberg): NürnbergR,36
+Germany (Wiesbaden): Wiesbaden R Users Group,55
+Hungary (Budapest): Budapest Users of R Network (BURN),338
+Ireland (Belfast): Belfast R Users,NA
+Ireland (Dublin): Dublin-R,958
+Italy (Milan): MilanoR,NA
+Italy (Padua): Italy-RUG (Rante),246
+Italy (Torino): Torino R net,NA
+Luxembourg (Luxembourg): LuxR,287
+Netherlands (Amsterdam): amst-R-dam,475
+Netherlands (Enschede): Twente R User Group (TRUG),NA
+Poland (Cracow): eRka,116
+Poland (Warsaw/Wroclaw): SER,NA
+Poland (Pozna?): Pozna? R Users,NA
+Romania(Bucharest): R-omania Team,NA
+Russia (Moscow): rMoscow,89
+Russia (PERM): PeRm R Group,NA
+Russia (St. Petersburg): St. Petersburg R User Group,36
+Serbia (Belgrade): Sav taj R,NA
+Slovenia (Ljubljana): Anonymous Rcoholics,NA
+Spain (Barcelona): RUGBCN,NA
+Spain (Madrid): Grupo de Interés Local de Madrid,NA
+Spain (Madrid): Comunidad R Hispano,NA
+Spain (Sevilla): Sevilla R users,NA
+Sweden (Stockholm): Stockholm R useR group (StockholmR),542
+Switzerland (Basel): BaselR,NA
+Switzerland (Geneva): GenevaR,NA
+Switzerland (Zurich): ZurichR,NA
+Turkey (Ankara):Turkish Community of R,163
+UK (Birmingham): Birmingham R Users Meeting (BRUM),214
+UK (Cambridge): CambR,NA
+UK (Cardiff): Cardiff R User Group,61
+UK (Edinburgh): The Edinburgh R Usergroup (EdinbR),NA
+UK (Exeter): Exeter R Users Group,129
+UK (London): LondonR,1136
+UK (Manchester): ManchesterR,NA
+UK (Sheffield): SheffieldR - Sheffield R Users Group,147
+UK (Swansea): Swansea University R User Group,NA
+Egypt (Cairo): Cairo Bioinformatics Group,24
+Senegal (Dakar): DakaR R User Group (DRUG),66
+South Africa (Cape Town): Cape R Users Group,NA
+Israel (Tel Aviv): Israel R User Group,NA
+"Adelaide, SA: Adelaide R-users Group",94
+"Canberra, ACT: Canberra R Users Group (CANRUG)",197
+"Hobart, TAS: Hobart R Users Group (HRUG)",185
+"Melbourne, VIC: Melbourne Users of R Network (MelbURN)",988
+"Perth, WA: Murdoch University R User Group (MURUG)",NA
+"Sydney, NSW: Sydney Users of R Forum (SURF)",1045
+"Auckland, NZ: Auckland-R-Users-Group (AKLRUG)",332
+"Wellington, NZ: Wellington R Users Group (WRUG)",132
+Argentina (Buenos Ares): Grupo de Usarios de R Argentina,NA
+Brazil (virtual): R-br: the Brazilian R-community,NA
+Chile (Santiago): Grupo de Usuarios de R en Chile,114
+Mexico( Mexico City): Mexico City Business Analytics Users Group,163
+Nicaragua (Managua): Usuarios R Nicaragua,NA
+USA (sorted by state),
+"Phoenix, AZ: Phoenix R Programmers",NA
+"Berkeley, CA: The Berkeley R Language Beginner Study Group",854
+"Davis, CA: Davis R Users' Group",NA
+"Los Angeles, CA: Los Angeles Area R Users Group",1420
+"Monterey, CA: Group of R Users in the Monterey Peninsula",NA
+"Orange County, CA: Orange County R Users Group (OCRUG)",28
+"Pasadena, CA: Research Methods and Analytics (R is a main topic)",175
+"San Diego, CA: San Diego R Users Group",613
+"San Francisco / Bay Area, CA: Bay Area R useR Group (BARUG)",4052
+"San Francisco, CA: R-Ladies SF",485
+"Santa Barbara, CA: Santa Barbara R Users",139
+"Denver, CO: Denver R User Group",684
+"New Haven, CT: Connecticut R Users Group",200
+"Washington, DC: Statistical Programming DC",2571
+"Gainsesville, FL: R Users Group, Gainesville",109
+Miami and Fort Lauderdale: South Florida useR Group,49
+"Atlanta, GA: Atlanta R User's Group",430
+"Honolulu, HI: Honolulu R Users Group",24
+"Chicago, IL: Chicago R Users Group",1700
+"Indianapolis, IN: Indy useR Group",104
+"Kansas City, KS: Kansas City R Users Group",NA
+"Boston, MA: Greater Boston useR Group",1709
+"Northampton, MA: Western Mass Data Science, Stats, and R",192
+"Minneapolis and St. Paul, MN: Twin Cities R User Group",612
+"Kansas City, MO: Kansas City R Users Group",185
+"Saint Louis, MO: Saint Louis R User Group",245
+"Las Vegas, NV: Las Vegas R Users Group",135
+"Morristown, NJ: Morris Data Science",83
+"Newark, NJ: NewJerseyR",NA
+"Princeton, NJ: Central New Jersey R User Group",NA
+contact: rees@reesmorrison.com,NA
+"Trenton, NJ: Trenton R User Group (TRU)",50
+"Durham, NH: New Hampshire R Users Group (NH UserRs)",NA
+"Albany, NY: Albany R Users Group",86
+"New York, NY: New York Open Statistical Programming Meetup",4898
+"New York, NY: Columbia R Statistical Programming Group",NA
+"Charlotte, NC: Charlotte R Users Group",176
+"Raleigh-Durham, NC: Raleigh-Durham-Chapel Hill R Users Group",472
+"Cincinnati/Dayton, OH: CinDay RUG",121
+"Cleveland, OH: Cleveland UseR Group",231
+"Columbus, OH: Columbus useR Group",87
+"Portland, OR: Portland R User Group",472
+"Philadelphia, PA: Philadelphia UseR Group",148
+"Pittsburgh, PA: Pittsburgh useR Group",178
+"University Park, PA: Penn State R User's Group",NA
+"Knoxville, TN: Knoxville R Users Group (KRUG)",128
+"Nashville, TN: Nashville R user Group",179
+"Austin, TX: Austin R User Group",624
+"Dallas, TX: Dallas R Users Group",589
+"Houston, TX: Houston R Users Group",329
+"San Antonio, TX: Alamo City R Users Group",76
+"Burlington, VT: Burlington R Users",159
+"Charlottesville, VA: UVa R Users Group",200
+"Madison, WI: Madison Area R Users Group",NA
+"Milwaukee, WI: The Milwaukee Chapter of the ASA regularly hosts R workshops",NA
+"Salt Lake City, UT: University of Utah R Users Group",NA
+"Seattle, WA: Seattle UseR Group",1238
+"Spokane, WA: Inland Northwest R user Group",8
